@@ -1,0 +1,25 @@
+.travel_mainDiv{
+    border:1px    solid brown;
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.travel_mainDiv h5{
+    margin:20px;
+    
+}
+html{
+    scroll-behavior:smooth;
+} 
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+body {
+  background-color: mediumspringgreen;
+}
